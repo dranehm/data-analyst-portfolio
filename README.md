@@ -20,10 +20,10 @@ I'm a Data Analyst with expertise in:
 - Passionate about turning data into actionable insights
 
 ### 🔗 Connect With Me
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **GitHub**: [Your GitHub Profile](#)
-- **Email**: your.email@example.com
-- **Portfolio Website**: [Your Portfolio](#)
+- **LinkedIn**: [https://www.linkedin.com/in/drnhmg/](#)
+- **GitHub**: [https://github.com/dranehm/](#)
+- **Email**: mdgalapate@gmail.com
+- **Portfolio Website**: [https://dranehm.vercel.app/](#)
 
 ---
 
